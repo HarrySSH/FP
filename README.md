@@ -1,4 +1,4 @@
-**Final Project Overview**
+*Final Project Overview*
 
 The final project for this course is designed to provide students with hands-on experience in conducting a machine learning analysis. The project is divided into two major parts: the first involves working on a dataset of the group’s choice, while the second focuses on collaboratively working with all groups on a common dataset. This project will help students grasp the full machine learning workflow—from data acquisition and analysis, feature engineering, model training, and evaluation—to critical assessment of model performance. The project culminates in an individual essay that reflects on the experiences and methodologies utilized in both parts of the assignment. The overall project is worth 100 points, divided as follows: Presentation (30 points), Individual Essay (30 points), and Compensation Dataset (40 points).
 
@@ -99,7 +99,7 @@ In the second part, all groups will collaboratively work on a shared dataset (de
   - **Best Group:** 40 points.
   - **Second Place:** 35 points.
   - **Third Place:** 30 points.
-  - **Other Groups:** Must make at least 5 submissions to qualify for points.
+  - The not No.1 group must make at least 5 submissions to qualify for points.
 
 ---
 
